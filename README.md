@@ -1,6 +1,6 @@
 # GitHub Training Kit
 
-Open source courseware from the GitHub Professional Services team.
+open-access courseware from the GitHub Professional Services team.
 
 ## We ❤️ contributors like you
 
@@ -37,3 +37,13 @@ Code used to build and test the site as well as code samples on the site, if any
 This means you can use the content and code in this repository except for GitHub trademarks in your projects.
 
 When you contribute to this repository you are doing so under the above licenses.
+
+---
+
+**Proprietary Software — BlackRoad OS, Inc.**
+
+This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
